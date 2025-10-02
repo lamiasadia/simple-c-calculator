@@ -18,14 +18,7 @@ This is a beginner-friendly calculator program written in C. It uses `switch-cas
 5. Enter the second number.
 6. See the result!
 
-## Example
 
-```
-Enter first number: 7
-Enter an operator (+, -, *, /): *
-Enter second number: 3
-Result: 21.00
-```
 
 ## Why This Project?
 
