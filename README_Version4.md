@@ -18,8 +18,6 @@ This is a beginner-friendly calculator program written in C. It uses `switch-cas
 5. Enter the second number.
 6. See the result!
 
-
-
 ## Why This Project?
 
 This is my first CSE portfolio project. It helped me practice:
